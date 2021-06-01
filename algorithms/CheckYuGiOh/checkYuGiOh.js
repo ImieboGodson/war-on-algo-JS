@@ -53,7 +53,7 @@ checkYuGiOh(30);
 
 //PREVIOUS INTERATIONS
 
-//Initial Attempt
+//Attempt 1:
 // In this approach I tried to solve the task by testing for each possible case and push a string 
 // for each case by chaining a long if/else if statement.
 
