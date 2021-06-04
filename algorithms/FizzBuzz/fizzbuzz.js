@@ -33,4 +33,4 @@ const errorHandler = (input) => {
     console.log(errorMessage);
 }
 
-fizzbuzz(50);
+fizzbuzz(100);

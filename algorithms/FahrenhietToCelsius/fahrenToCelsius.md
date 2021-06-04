@@ -15,3 +15,6 @@ You can use the following cases as guides:
 - convertFahrToCelsius("0") should return `-17.7778`
 - convertFahrToCelsius([1,2,3]) should return `[1,2,3] is not a valid number but a/an array.`
 - convertFahrToCelsius({temp: 0}) should return `{"temp": 0} is not a valid number but a/an object.`
+
+## Source
+Given as task in a remote learning environment (Zuri Training).

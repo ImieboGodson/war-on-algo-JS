@@ -12,3 +12,6 @@ Use the following cases as guides:
 - checkYuGiOh(10) should return [1, "yu", "gi", "yu", "oh", "yu-gi", 7, "yu", "gi", "yu-oh"]
 - checkYuGiOh("5") should return [1, "yu", "gi", "yu", "oh"]
 - checkYuGiOh("fizzbuzz is meh") should return `invalid parameter: "fizzbuzz is meh"`
+
+## Source
+Given as task in a remote learning environment (Zuri Training).
