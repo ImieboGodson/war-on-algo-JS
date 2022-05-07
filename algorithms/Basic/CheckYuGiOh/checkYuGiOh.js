@@ -44,8 +44,6 @@ const errorHandlerFunc = (n) => {
 	return errorMessage;
 }
 
-checkYuGiOh(30);
-
 
 
 
