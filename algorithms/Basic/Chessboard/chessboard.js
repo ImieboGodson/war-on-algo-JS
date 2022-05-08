@@ -1,8 +1,6 @@
 const createChessBoard = (width,height) => {
 	console.time('execution_time');
 	let chessString = "";
-	// let width = 8;
-	// let height = 8;
 
 	for (let columnCount = 0; columnCount < height; columnCount++) {
 		for (let rowCount = 0; rowCount < width; rowCount++) {
