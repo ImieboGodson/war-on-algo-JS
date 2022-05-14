@@ -5,7 +5,7 @@ const getData = fs.readFileSync('./puzzle_input.txt', (error) => {
 	console.log(error);
 })
 
-// Encodes the data gotten from the puzzle_input.txt
+// Encodes the data gotten from the puzzle_input.txt using utf
 const dataToString = getData.toString();
 
 // Splits the items in the data gotten into an array so that we can easily move through the data.
@@ -50,3 +50,9 @@ dataArray.forEach((item)=> {
 });
 
 console.log('Total Square Feet:', sumTotal(totalSquareFeetArray));
+
+
+// -- PART TWO --
+
+
+
